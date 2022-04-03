@@ -1,0 +1,10 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore data files
+*.csv
+# Ignore other files
+*.pyc
+
+# Ignore .txt files
+*.txt
